@@ -1,0 +1,16 @@
+Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1:
+1.HTTP1.1 multiple TCP connection for requesting mutiple resource.
+2.Its work on textual format. 
+3.It uses requests resource inlining for use getting mutiple pages.
+4.long HTTP headers.
+5.slow web pages loading speed
+
+
+HTTP2:
+1.HTTP2 is use single TCP connection to send the multiple data at once.
+2.Its work on binary protocol.
+3.it is uses push frame by server that collect all multiple pages.
+4.header compression HPACK to reduce the over heal size.
+5.web page load faster

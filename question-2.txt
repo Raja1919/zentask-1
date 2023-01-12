@@ -1,0 +1,16 @@
+object and its internal representation:
+
+object:
+1.objects are important data type.
+2.objects are different than primitive data type(string,number,boolean).
+3.primitive data type contain one value but object can hold many value in form of key:value pair.
+4.these keys can be variable of function and are called properties and method.
+
+javascript internal representation:
+1.creating object in javascript
+2.object properties
+3.setter&getters
+4.object destructing
+5.delete property % delete operator
+6.constructor function
+7.object literal
